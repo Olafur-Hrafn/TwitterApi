@@ -1,0 +1,133 @@
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.exe
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.deps.json
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.runtimeconfig.json
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.runtimeconfig.dev.json
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.pdb
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.AssemblyInfo.cs
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\staticwebassets\TwitterClone.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\staticwebassets\TwitterClone.StaticWebAssets.xml
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\scopedcss\bundle\TwitterClone.styles.css
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.pdb
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.genruntimeconfig.cache
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.csproj.CopyComplete
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\source\repos\TwitterClone\TwitterClone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.csprojAssemblyReference.cache
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.AssemblyInfoInputs.cache
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.AssemblyInfo.cs
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.csproj.CoreCompileInputs.cache
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.pdb
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.exe
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.deps.json
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.runtimeconfig.json
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.runtimeconfig.dev.json
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\TwitterClone.pdb
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\staticwebassets\TwitterClone.StaticWebAssets.Manifest.cache
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\staticwebassets\TwitterClone.StaticWebAssets.xml
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\scopedcss\bundle\TwitterClone.styles.css
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.RazorTargetAssemblyInfo.cache
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.csproj.CopyComplete
+C:\Users\Notandi\Downloads\NtvTwitterAPI-main (2)\NtvTwitterAPIFix\TwitterClone\obj\Debug\netcoreapp3.1\TwitterClone.genruntimeconfig.cache
